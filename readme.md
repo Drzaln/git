@@ -6,6 +6,11 @@ git config --global user.name "[name]"
 git config --global user.email "[email address]"
 ```
 
+- Create repository
+```sh
+git init [project-name]
+```
+
 - Save Fragments
 ```sh
 git stash
